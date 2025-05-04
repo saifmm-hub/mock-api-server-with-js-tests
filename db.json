@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Sue Lubowitz",
+      "email": "Cesar2@hotmail.com",
+      "phone": "1-737-959-3948 x18776"
+    },
+    {
+      "id": 3,
+      "name": "Rachael Hilpert",
+      "email": "Garry_McClure72@gmail.com",
+      "phone": "1-522-906-8071 x625"
+    },
+    {
+      "id": 4,
+      "name": "Dawn Veum",
+      "email": "Abby.Bayer89@hotmail.com",
+      "phone": "346-320-9426 x4347"
+    },
+    {
+      "id": 5,
+      "name": "Wesley Auer",
+      "email": "Kiel.Wintheiser@gmail.com",
+      "phone": "668.572.4838 x226"
+    },
+    {
+      "id": 6,
+      "name": "Stuart Reynolds",
+      "email": "Lindsay.Mueller@gmail.com",
+      "phone": "876.979.0937"
+    },
+    {
+      "id": 7,
+      "name": "Charlene O'Conner",
+      "email": "Karolann_Johnston@hotmail.com",
+      "phone": "(375) 755-7396 x49570"
+    },
+    {
+      "id": 8,
+      "name": "Jack Raynor",
+      "email": "Dayana_Hermiston@gmail.com",
+      "phone": "1-449-867-1477"
+    },
+    {
+      "id": 9,
+      "name": "Tasha Rowe",
+      "email": "Enola16@yahoo.com",
+      "phone": "539.362.1680 x7602"
+    },
+    {
+      "id": 10,
+      "name": "Gilberto Reinger",
+      "email": "Antonia_Dibbert73@yahoo.com",
+      "phone": "891-387-8579 x59912"
+    },
+    {
+      "name": "Test User",
+      "email": "testuser@example.com",
+      "id": 11
+    }
+  ],
+  "posts": []
+}

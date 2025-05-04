@@ -1,0 +1,16 @@
+{
+  "name": "mock-api-server",
+  "version": "1.0.0",
+  "scripts": {
+    "generate": "node generate-data.js",
+    "start": "npm run generate && json-server --watch db.json --routes routes.json --middlewares auth-middleware.js --port 3000",
+    "test": "mocha test/*.test.js"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.3",
+    "@faker-js/faker": "^8.0.2",
+    "mocha": "^10.2.0",
+    "chai": "^4.3.7",
+    "axios": "^1.6.8"
+  }
+}
